@@ -1,0 +1,6 @@
+*.docx
+*.psc
+
+venv/
+__pycache__/
+*.pyc
