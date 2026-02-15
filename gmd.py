@@ -1,6 +1,6 @@
 from gdm import FileReader, Datos, get_args
 
-if __name__ == "__main__":
+def main():
     try:
         print("Generador de Documentación Mini - Procesando archivo...")
         args = get_args()
@@ -14,3 +14,6 @@ if __name__ == "__main__":
         print(f"Documentación generada exitosamente en: {args['salida']}")
     except Exception as e:
         print(f"Error: {e}")
+
+if __name__ == "__main__":
+    main()
