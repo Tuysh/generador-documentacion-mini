@@ -44,6 +44,7 @@ Esto creará un archivo con el nombre que tú elijas.
 - La plantilla `plantilla.docx` debe estar en la carpeta raíz del proyecto
 - Solo funciona con archivos de PSeInt (extensión `.psc`)
 - El documento generado se guardará en la misma carpeta donde ejecutes el programa
+- Revisa la sintaxis de los comentario en [SINTAXIS.md](SINTAXIS.md)
 
 ## Ejemplo
 
